@@ -12,7 +12,7 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  * @email 2415621370@qq.com
  * @date 2019/8/31 10:01
  */
-//啥
+//啥2
 @SpringBootApplication
 @EnableEurekaServer
 public class EurekaApplication {
